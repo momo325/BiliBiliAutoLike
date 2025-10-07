@@ -31,7 +31,7 @@ B 站视频自动点赞脚本，视频播放超过70%进度时自动点赞
 
 ## 开发与反馈
 
-- 作者：`zakee`
+- 作者：`momo325`
 - GitHub 仓库：[BiliBiliAutoLike](https://github.com/momo325/BiliBiliAutoLike)
 - 欢迎提 Issues 或提交 Pull Request
 
