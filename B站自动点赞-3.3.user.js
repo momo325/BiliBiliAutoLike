@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         B站自动点赞
-// @namespace    zakee-bilibili-autolike
+// @namespace    momo325-bilibili-autolike
 // @version      3.3
 // @description  自动在真实观看达70%后点赞；短视频兼容；忽略快进；不会误取消手动点赞；支持倍速和分P切换
 // @author       momo325
