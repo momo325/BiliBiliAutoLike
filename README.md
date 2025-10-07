@@ -37,4 +37,4 @@ B 站视频自动点赞脚本，视频播放超过70%进度时自动点赞
 
 ## 许可证
 
-MIT License © 2025 zakee
+MIT License © 2025 momo325
