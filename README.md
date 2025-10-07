@@ -16,7 +16,7 @@ B 站视频自动点赞脚本，视频播放超过70%进度时自动点赞
 ## 安装方法
 
 1. 安装 **Tampermonkey** 或 **Violentmonkey** 等油猴扩展
-2. 点击 [Greasy Fork 脚本链接](https://github.com/momo325/BiliBiliAutoLike) 或直接复制脚本内容
+2. 点击 [Greasy Fork 脚本链接](https://greasyfork.org/zh-CN/scripts/551849-b%E7%AB%99%E8%87%AA%E5%8A%A8%E7%82%B9%E8%B5%9E) 或直接复制脚本内容
 3. 在油猴面板中 **新建脚本** 并粘贴内容
 4. 保存并启用脚本
 5. 打开 B站视频即可自动点赞
